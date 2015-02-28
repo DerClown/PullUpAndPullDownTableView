@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A2840F1A-E079-41E3-B17A-20A477C135F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BaseTableViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>442F7CE8BDF818AC7A1D4D25C4B5F859D0A91732</key>
+		<string>https://github.com/DongZai/PullUpAndPullDownTableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BaseTableViewDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>442F7CE8BDF818AC7A1D4D25C4B5F859D0A91732</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DongZai/PullUpAndPullDownTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>442F7CE8BDF818AC7A1D4D25C4B5F859D0A91732</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>442F7CE8BDF818AC7A1D4D25C4B5F859D0A91732</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PullUpAndPullDownTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

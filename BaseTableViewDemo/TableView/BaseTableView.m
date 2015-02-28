@@ -295,7 +295,7 @@
             break;
         case PullUpRefreshLoading:
             _statusLabel.text = @"加载中，请稍后...";
-            CGSize size = [_statusLabel.text sizeWithFont:_statusLabel.font constrainedToSize:CGSizeMake(MAXFLOAT, 22)];
+            CGSize size = [_statusLabel.text sizeWithAttributes:@{NSFontAttributeName:_statusLabel.font}];
             _indicatorView.frame = CGRectMake((self.frame.size.width - size.width) / 2 - 10 - 30, 11, 25, 25);
             [_indicatorView startAnimating];
             break;
